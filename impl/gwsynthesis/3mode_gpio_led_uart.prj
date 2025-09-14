@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW1NR-9C" package="QFN88P" speed="6" partNumber="GW1NR-LV9QN88PC6/I5"/>
+    <FileList>
+        <File path="E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\src\cpu.v" type="verilog"/>
+        <File path="E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\src\ext_led_gpio.v" type="verilog"/>
+        <File path="E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\src\led_gpio.v" type="verilog"/>
+        <File path="E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\src\progmem.v" type="verilog"/>
+        <File path="E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\src\top.v" type="verilog"/>
+        <File path="E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\src\uart_rx.v" type="verilog"/>
+        <File path="E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\src\uart_rx_gpio.v" type="verilog"/>
+        <File path="E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\src\uart_tx.v" type="verilog"/>
+        <File path="E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\src\uart_tx_gpio.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="global_freq" value="50.000"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\impl\gwsynthesis\3mode_gpio_led_uart.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="vcc" value="1.2"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

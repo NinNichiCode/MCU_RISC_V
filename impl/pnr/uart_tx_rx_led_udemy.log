@@ -1,0 +1,29 @@
+Reading netlist file: "E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\impl\gwsynthesis\uart_tx_rx_led_udemy.vg"
+Parsing netlist file "E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\impl\gwsynthesis\uart_tx_rx_led_udemy.vg" completed
+Processing netlist completed
+Reading constraint file: "E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\src\rv32.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\impl\pnr\uart_tx_rx_led_udemy.power.html" completed
+Generate file "E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\impl\pnr\uart_tx_rx_led_udemy.pin.html" completed
+Generate file "E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\impl\pnr\uart_tx_rx_led_udemy.rpt.html" completed
+Generate file "E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\impl\pnr\uart_tx_rx_led_udemy.rpt.txt" completed
+Generate file "E:\book_chip\course_ud\RISC_V\practice_code\uart_tx_rx_3mode_led_breadboard\impl\pnr\uart_tx_rx_led_udemy.tr.html" completed
+Sat Sep 13 13:17:56 2025
+

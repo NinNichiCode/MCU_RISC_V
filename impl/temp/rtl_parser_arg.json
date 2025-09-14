@@ -1,0 +1,49 @@
+{
+ "Device" : "GW1NR-9C",
+ "Files" : [
+  {
+   "Path" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/cpu.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/ext_led_gpio.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/led_gpio.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/progmem.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/top.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/uart_rx.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/uart_rx_gpio.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/uart_tx.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/uart_tx_gpio.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

@@ -1,0 +1,80 @@
+[
+ {
+  "InstFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/top.v",
+  "InstLine" : 3,
+  "InstName" : "top",
+  "ModuleFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/top.v",
+  "ModuleLine" : 3,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/top.v",
+    "InstLine" : 34,
+    "InstName" : "cpu0",
+    "ModuleFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/cpu.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "cpu"
+   },
+   {
+    "InstFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/top.v",
+    "InstLine" : 45,
+    "InstName" : "mem0",
+    "ModuleFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/progmem.v",
+    "ModuleLine" : 5,
+    "ModuleName" : "progmem"
+   },
+   {
+    "InstFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/top.v",
+    "InstLine" : 55,
+    "InstName" : "uart_tx0",
+    "ModuleFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/uart_tx_gpio.v",
+    "ModuleLine" : 6,
+    "ModuleName" : "uart_tx_gpio",
+    "SubInsts" : [
+     {
+      "InstFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/uart_tx_gpio.v",
+      "InstLine" : 58,
+      "InstName" : "tx0",
+      "ModuleFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/uart_tx.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "uart_tx"
+     }
+    ]
+   },
+   {
+    "InstFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/top.v",
+    "InstLine" : 65,
+    "InstName" : "uart_rx0",
+    "ModuleFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/uart_rx_gpio.v",
+    "ModuleLine" : 6,
+    "ModuleName" : "uart_rx_gpio",
+    "SubInsts" : [
+     {
+      "InstFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/uart_rx_gpio.v",
+      "InstLine" : 50,
+      "InstName" : "rx0",
+      "ModuleFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/uart_rx.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "uart_rx"
+     }
+    ]
+   },
+   {
+    "InstFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/top.v",
+    "InstLine" : 75,
+    "InstName" : "led0",
+    "ModuleFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/led_gpio.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "led_gpio"
+   },
+   {
+    "InstFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/top.v",
+    "InstLine" : 85,
+    "InstName" : "ext_led0",
+    "ModuleFile" : "E:/book_chip/course_ud/RISC_V/practice_code/uart_tx_rx_3mode_led_breadboard/src/ext_led_gpio.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "ext_led_gpio"
+   }
+  ]
+ }
+]

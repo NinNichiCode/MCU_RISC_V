@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Lut="101" T_Register="162(0)" T_Alu="98(0)" T_Lut="1302(101)" T_Bsram="6(0)">
+ <SubModule name="cpu0" Register="65" Alu="95" Lut="1038" Bsram="2" T_Register="65(65)" T_Alu="95(95)" T_Lut="1038(1038)" T_Bsram="2(2)"/>
+ <SubModule name="mem0" Lut="27" Bsram="4" T_Lut="27(27)" T_Bsram="4(4)"/>
+ <SubModule name="uart_tx0" Register="10" Lut="13" T_Register="34(10)" T_Lut="52(13)">
+  <SubModule name="tx0" Register="24" Lut="39" T_Register="24(24)" T_Lut="39(39)"/>
+ </SubModule>
+ <SubModule name="uart_rx0" Register="9" Lut="14" T_Register="50(9)" T_Alu="3(0)" T_Lut="74(14)">
+  <SubModule name="rx0" Register="41" Alu="3" Lut="60" T_Register="41(41)" T_Alu="3(3)" T_Lut="60(60)"/>
+ </SubModule>
+ <SubModule name="led0" Register="7" Lut="3" T_Register="7(7)" T_Lut="3(3)"/>
+ <SubModule name="ext_led0" Register="6" Lut="7" T_Register="6(6)" T_Lut="7(7)"/>
+</Module>
